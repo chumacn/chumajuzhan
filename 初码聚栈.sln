@@ -13,12 +13,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "【我的自媒体建设手
 		【我的自媒体建设手记】一、打个地基.MD = 【我的自媒体建设手记】一、打个地基.MD
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "我的十年创业路", "我的十年创业路", "{E1B0CC49-C09A-43E7-BF95-D5B9EBFFD26E}"
+	ProjectSection(SolutionItems) = preProject
+		我的十年创业路.MD = 我的十年创业路.MD
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{7AC2FC8D-E99F-40C2-884E-470E81C1FD40} = {3DB4C4A2-CB19-4B60-8524-40FCCAE2EF1A}
+		{E1B0CC49-C09A-43E7-BF95-D5B9EBFFD26E} = {3DB4C4A2-CB19-4B60-8524-40FCCAE2EF1A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3ED268F9-A0FF-47BA-A210-26465F48C593}
