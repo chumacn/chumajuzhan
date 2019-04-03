@@ -23,6 +23,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ERP不规范，同事两行
 		ERP不规范，同事两行泪.MD = ERP不规范，同事两行泪.MD
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Telerik控件集-2019.R1.SP1.All", "Telerik控件集-2019.R1.SP1.All", "{E05C3FF8-A1E2-49A9-9127-992DCB27BA41}"
+	ProjectSection(SolutionItems) = preProject
+		Telerik控件集-2019.R1.SP1.All.MD = Telerik控件集-2019.R1.SP1.All.MD
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
