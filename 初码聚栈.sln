@@ -28,6 +28,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Telerik控件集-2019.R1.SP
 		Telerik控件集-2019.R1.SP1.All.MD = Telerik控件集-2019.R1.SP1.All.MD
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bootstrap优秀模板-Unify.2.6.2", "Bootstrap优秀模板-Unify.2.6.2", "{7A5ED258-8C4A-4841-8796-964526F0108B}"
+	ProjectSection(SolutionItems) = preProject
+		Bootstrap优秀模板-Unify.2.6.2.MD = Bootstrap优秀模板-Unify.2.6.2.MD
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,6 +41,7 @@ Global
 		{7AC2FC8D-E99F-40C2-884E-470E81C1FD40} = {3DB4C4A2-CB19-4B60-8524-40FCCAE2EF1A}
 		{E1B0CC49-C09A-43E7-BF95-D5B9EBFFD26E} = {3DB4C4A2-CB19-4B60-8524-40FCCAE2EF1A}
 		{D56ACEA7-6B0B-43B9-93B0-6A608A6A521C} = {3DB4C4A2-CB19-4B60-8524-40FCCAE2EF1A}
+		{7A5ED258-8C4A-4841-8796-964526F0108B} = {3DB4C4A2-CB19-4B60-8524-40FCCAE2EF1A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3ED268F9-A0FF-47BA-A210-26465F48C593}
