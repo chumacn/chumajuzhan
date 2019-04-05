@@ -43,6 +43,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "程序员抢复联4首映�
 		程序员抢复联4首映票的正确方式.MD = 程序员抢复联4首映票的正确方式.MD
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bootstrap优秀模板-INSPINIA.2.9.2", "Bootstrap优秀模板-INSPINIA.2.9.2", "{0C08BDF7-D3A0-4A26-900B-750429EEE118}"
+	ProjectSection(SolutionItems) = preProject
+		Bootstrap优秀模板-INSPINIA.2.9.2.MD = Bootstrap优秀模板-INSPINIA.2.9.2.MD
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +60,7 @@ Global
 		{7A5ED258-8C4A-4841-8796-964526F0108B} = {3DB4C4A2-CB19-4B60-8524-40FCCAE2EF1A}
 		{105C3073-1075-40DB-95B2-29BE10822578} = {3DB4C4A2-CB19-4B60-8524-40FCCAE2EF1A}
 		{9C6A08E3-2C33-4122-AC04-8ECFFBDB2509} = {3DB4C4A2-CB19-4B60-8524-40FCCAE2EF1A}
+		{0C08BDF7-D3A0-4A26-900B-750429EEE118} = {3DB4C4A2-CB19-4B60-8524-40FCCAE2EF1A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3ED268F9-A0FF-47BA-A210-26465F48C593}
