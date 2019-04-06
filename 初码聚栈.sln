@@ -53,6 +53,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "434个H5游戏源码", "434
 		434个H5游戏源码.MD = 434个H5游戏源码.MD
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8000个JQuery特效（插件）", "8000个JQuery特效（插件）", "{189FB540-B25B-482D-97B4-1D6BE2052738}"
+	ProjectSection(SolutionItems) = preProject
+		8000个JQuery特效（插件）.MD = 8000个JQuery特效（插件）.MD
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +72,7 @@ Global
 		{9C6A08E3-2C33-4122-AC04-8ECFFBDB2509} = {3DB4C4A2-CB19-4B60-8524-40FCCAE2EF1A}
 		{0C08BDF7-D3A0-4A26-900B-750429EEE118} = {3DB4C4A2-CB19-4B60-8524-40FCCAE2EF1A}
 		{88B72CE0-927C-4B19-8096-EDF61A621D79} = {3DB4C4A2-CB19-4B60-8524-40FCCAE2EF1A}
+		{189FB540-B25B-482D-97B4-1D6BE2052738} = {3DB4C4A2-CB19-4B60-8524-40FCCAE2EF1A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3ED268F9-A0FF-47BA-A210-26465F48C593}
